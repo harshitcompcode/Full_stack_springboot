@@ -38,7 +38,7 @@ Follow these steps to get the project up and running on your local machine:
 
 1. Clone the repository:
 
-   git clone https://github.com/harshil-1402/Spring-boot-CRUD
+   git clone https://github.com/harshitcompcode/Full_stack_springboot.git
 
    enable the maven annotations
 
